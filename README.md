@@ -15,7 +15,7 @@ Expect frequent improvements and some bugs
 **Next up:**
 
 - [ ] Sharing
-- [ ] "Bots"
+//- [ ] "Bots"
 
 ## Deploy
 
